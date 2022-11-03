@@ -1,0 +1,10 @@
+.positionElement{
+float: left; 
+transform: translateX(25%);
+margin-top: 50px;
+}
+
+.AlignCenter{
+    text-align: center;
+    text-transform: uppercase;
+}
